@@ -23,9 +23,11 @@ h2 {
 }
 
 header, main, footer {
-    margin: 1.25rem auto;
-    padding: .5rem;
+    margin: 1.25em auto;
+    padding: 0.5em;
     max-width: auto;/* xxxpx (px = pixel is a unit of measure)  */;
+    text-align: center
+    
 }
 
 header, footer, footer a {
