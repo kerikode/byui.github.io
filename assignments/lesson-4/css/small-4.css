@@ -1,0 +1,49 @@
+/* CIT 230 - Assignment Weather Initail Template */
+
+
+/* { margin: 0; box-sizing: border-box; }            */
+
+body {background-color: #259F9F} 
+body
+   { font-size: 15px; 
+    line-height: 32px;
+    font-family: 'Trebuchet MS', 'Georgia';
+    color: #FFC53A;
+}
+
+h1 {
+    font-size: 25px ;
+    color:  #FF933A;
+}
+
+h2 {
+    font-size: 20px;
+    text-align: center;
+    color:#FFC53A;
+}
+
+header, main, footer {
+    color: #FFC53A;
+    margin: 1.25em auto;
+    padding: 0.5em;
+    max-width: auto;
+    text-align: center
+    
+    
+}
+
+header, footer, footer a {
+    text-align: center;
+    background-color:#259F9F;
+    color: #FFC53A;
+}
+
+header img {
+    width: auto 
+    height: auto;
+    float: center;
+}
+
+footer {
+    font-size: 18px;
+}
